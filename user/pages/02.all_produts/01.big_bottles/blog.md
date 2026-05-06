@@ -1,5 +1,6 @@
 ---
 title: 大玻璃瓶
+templete: blog
 content:
     items: '@self.children'
     order:
