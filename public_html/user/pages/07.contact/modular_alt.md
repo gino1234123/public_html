@@ -61,4 +61,5 @@ content:
     order:
         by: default
         dir: asc
+visible: false
 ---

@@ -22,6 +22,7 @@ feed:
     limit: 10
 
 pagination: true
+visible: false
 ---
 
 # Our Blog
