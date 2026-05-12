@@ -57,3 +57,16 @@
         grid-template-columns: 1fr;
     }
 }
+
+.product-image-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.product-image-only img {
+    max-width: 500px;
+    height: auto;
+    display: block;
+}
