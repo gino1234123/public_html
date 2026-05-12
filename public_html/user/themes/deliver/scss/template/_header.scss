@@ -190,8 +190,16 @@
                         & > ul {
                             display: block;
                             position: absolute;
+                            top: 100%;
+                            left: 0;
                             background: rgba($white, 0.9);
                             width: 10rem;
+
+                            max-height: 70vh;
+                            overflow-y: auto;
+                            overflow-x: hidden;
+
+                            z-index: 9999;
                         }
 
                         li {
