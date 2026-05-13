@@ -20,7 +20,20 @@ features:
 	  linktext: "加入LINE"
 ---
 
-## 聯絡我們以購買產品！
+<style>
+.modular-row.big,
+.modular-row.big h1,
+.modular-row.big h2,
+.modular-row.big h3,
+.modular-row.big p,
+.modular-row.big li,
+.modular-row.big .feature-content,
+.modular-row.big .feature-content .title {
+  color: #1f2937 !important;
+}
+</style>
+
+## **！聯絡我們以購買產品！**
 
 本網頁酒類產品由於菸酒管理法第30條第1項規定，酒之販賣不得以自動販賣機、郵購、電子購物或其他無法辨識購買者年齡之方式為之。
 
